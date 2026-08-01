@@ -1,1 +1,9 @@
+
 this will make the conflict
+
+this is the first file to commit 
+new line added 
+
+the conflict is resolved...
+
+
