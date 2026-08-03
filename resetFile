@@ -1,0 +1,8 @@
+Here we will learn the reset commands
+like 
+git reset --hard
+git reset --soft
+git reset --mix 
+all these command is very helpfull if somthing went wrong
+ 
+
